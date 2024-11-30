@@ -1,0 +1,6 @@
+nome = "Vinicius"
+peso = 72
+altura = 1.80
+imc = peso / (altura * altura)
+
+print(f"Vinicius pesa, {peso} Kg, , tem {altura} CM de altura , e seu IMC {imc}")
